@@ -1,9 +1,10 @@
 {
-  "name": "test-node",
+  "name": "LIST-USERS-NODE",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node inde.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
